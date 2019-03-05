@@ -27,12 +27,12 @@ client.channels.find('id', '552423084867584030').setName("Welcome To Ex'S");
 client.channels.find('id', '552423084867584030').setName("Welcome To Exulusive");
 client.channels.find('id', '552423084867584030').setName("Welcome To Exulusive🔝");
 client.channels.find('id', '552423084867584030').setName("Welcome To Exulusive🔝🔝 ");
-client.channels.find('id', '552423084867584030').setName("Welcome To Mal Exulusive🔝🔝🔝");
+client.channels.find('id', '552423084867584030').setName("Welcome To Exulusive🔝🔝🔝");
 
 
 
 
-  }, 5000);
+  }, 7000);
 });
 
 
