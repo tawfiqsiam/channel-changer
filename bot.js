@@ -12,23 +12,23 @@ const client = new Discord.Client();
 
 client.on("ready", async  => {
 setInterval(function(){
-client.channels.find('id', '526363779106209793').setName("W");
-client.channels.find('id', '526363779106209793').setName("We");
-client.channels.find('id', '526363779106209793').setName("Wel");
-client.channels.find('id', '526363779106209793').setName("Welc");
-client.channels.find('id', '526363779106209793').setName("Welco");
-client.channels.find('id', '526363779106209793').setName("Welcom");
-client.channels.find('id', '526363779106209793').setName("Welcome");
-client.channels.find('id', '526363779106209793').setName("Welcome T");
-client.channels.find('id', '526363779106209793').setName("Welcome To");
-client.channels.find('id', '526363779106209793').setName("Welcome To M");
-client.channels.find('id', '526363779106209793').setName("Welcome To Ma");
-client.channels.find('id', '526363779106209793').setName("Welcome To Mal");
-client.channels.find('id', '526363779106209793').setName("Welcome To Mal S");
-client.channels.find('id', '526363779106209793').setName("Welcome To Mal Sh");
-client.channels.find('id', '526363779106209793').setName("Welcome To Mal Sho");
-client.channels.find('id', '526363779106209793').setName("Welcome To Mal Shop");
-client.channels.find('id', '526363779106209793').setName("Welcome To Mal Shop🔝");
+client.channels.find('id', '552423084867584030').setName("W");
+client.channels.find('id', '552423084867584030').setName("We");
+client.channels.find('id', '552423084867584030').setName("Wel");
+client.channels.find('id', '552423084867584030').setName("Welc");
+client.channels.find('id', '552423084867584030').setName("Welco");
+client.channels.find('id', '552423084867584030').setName("Welcom");
+client.channels.find('id', '552423084867584030').setName("Welcome");
+client.channels.find('id', '552423084867584030').setName("Welcome T");
+client.channels.find('id', '552423084867584030').setName("Welcome To");
+client.channels.find('id', '552423084867584030').setName("Welcome To E");
+client.channels.find('id', '552423084867584030').setName("Welcome To Ex");
+client.channels.find('id', '552423084867584030').setName("Welcome To Ex'S");
+client.channels.find('id', '552423084867584030').setName("Welcome To Exulusive");
+client.channels.find('id', '552423084867584030').setName("Welcome To Exulusive🔝");
+client.channels.find('id', '552423084867584030').setName("Welcome To Exulusive🔝🔝 ");
+client.channels.find('id', '552423084867584030').setName("Welcome To Mal Exulusive🔝🔝🔝");
+
 
 
 
