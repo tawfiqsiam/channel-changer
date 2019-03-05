@@ -32,7 +32,7 @@ client.channels.find('id', '552423084867584030').setName("Welcome To Mal Exulusi
 
 
 
-  }, 3000);
+  }, 5000);
 });
 
 
